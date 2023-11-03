@@ -2,7 +2,8 @@
 
 **Project Description:** 
 
-Creating a production-grade workflow for a React app using Docker for deployment on multiple containers involves several steps
+Creating a production-grade workflow for a React app
+Which uses Docker for containerizing, nginx for Reverse Proxy , Redis for Caching the Data And Postresql for Database.
 
 **Project Owner:** Hardik Upadhyay
 
@@ -13,6 +14,7 @@ Creating a production-grade workflow for a React app using Docker for deployment
 - PostgreSQL
 - NGINX (Reverse Proxy)
 - Docker
+- Redis (Caching )
 
 ## Table of Contents
 
